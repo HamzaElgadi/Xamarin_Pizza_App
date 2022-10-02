@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaApp/App.xaml.cs">
+    <Files>
+      <File FileName="PizzaApp/MainPage.xaml" />
+      <File FileName="PizzaApp/App.xaml" />
+      <File FileName="PizzaApp/App.xaml.cs" Line="5" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaApp" expanded="True">
+            <Node name="PizzaApp" expanded="True">
+              <Node name="extensions" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="PizzaApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="drawable-xhdpi" expanded="True" />
+                <Node name="drawable-xxhdpi" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="PizzaApp.iOS" expanded="True">
+              <Node name="Packages" expanded="True">
+                <Node name="Xamarin.Forms" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.49F47EF1-3F8C-4AB8-BFBA-A50316D4D49B" />
+  <MonoDevelop.Ide.ItemProperties.PizzaApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Pixel_XL_API_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PizzaApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
